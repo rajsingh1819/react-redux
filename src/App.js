@@ -7,8 +7,8 @@ import User from './Components/User';
 function App() {
   return (
     <div className="App">
-      {/* <h1>App Component</h1> */}
-      <User  data={{name:'Raj Singh',age:22}} />
+      <h1>App Component</h1>
+     
 
        
     </div>
