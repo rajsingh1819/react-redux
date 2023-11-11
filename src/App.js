@@ -1,16 +1,14 @@
 // import logo from './logo.svg';
 import './App.css';
-import User from './Components/User';
 
 
+import HomeContainer from '../src/Containers/HomeContainers'
 
 function App() {
   return (
     <div className="App">
-      <h1>App Component</h1>
-     
-
-       
+      {/* <h1>App Component</h1> */}
+      <HomeContainer />
     </div>
   );
 }
