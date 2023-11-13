@@ -35,6 +35,7 @@
   border: 0px;
   color: #fff;
   box-shadow: #000 0px 1px 6px ;
+  cursor: pointer;
 }
 
 .img-wrapper img{
