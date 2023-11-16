@@ -80,6 +80,11 @@
   color: #fff;
 }
 
+button.remove_to_cart{
+  background-color: darkslateblue;
+  margin-top: 10px;
+}
+
 
 
 
